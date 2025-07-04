@@ -30,7 +30,7 @@ ProductApi is a RESTful API built with ASP.NET Core (.NET 8) for managing produc
 3. Update the connection string in `appsettings.json` as needed.
 4. Apply database migrations: dotnet ef database update
 5. Run the API: dotnet run --project ProductApi
-6. The API will be available at `https://localhost:5001` (or as configured).
+6. The API will be available at `https://localhost:7264`.
 
 ### API Endpoints
 
